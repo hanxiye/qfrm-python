@@ -14,4 +14,5 @@ while (one+two) < 4000000:
     if(two % 2 == 0):
         summ = two + summ
 print summ
+print 1
 
